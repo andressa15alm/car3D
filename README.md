@@ -9,4 +9,5 @@ Adaptação do projeto do canal irradiance para uma versão mais atualizada util
 - tailwindcss
 
 ## Acesse o projeto aqui
+Pode clicar no link abaixo — só não esquece de ter um pouquinho de paciênciao... 3D precisa de uns segundinhos ☕️😄<br>
 https://car3-d-andressa15alm.vercel.app/
